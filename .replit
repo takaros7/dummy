@@ -1,2 +1,2 @@
-language = "cpp"
+g+language = "cpp"
   run = "g++ -g3 -O0 main.cpp -o main"
